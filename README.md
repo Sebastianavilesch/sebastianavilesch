@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Sebastian 👋
 
-<!--
-**Sebastianavilesch/sebastianavilesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Data Analyst passionate about uncovering stories hidden in data. I combine programming and visual storytelling to help drive data-driven decisions.
 
-Here are some ideas to get you started:
+## 🛠️ My Toolbox
+* **Data Analysis & Statistics:** R (ggplot2,R Markdown, etc)
+* **Data Visualization:** Power BI, Tableau, Locker Studio
+* **Database Management:** SQL, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+* ⏳ *Project 1 (Coming Soon)* - R Data Analysis
+* ⏳ *Project 2 (Coming Soon)* - Power BI Interactive Dashboard
+* ⏳ *Project 3 (Coming Soon)* - Tableau Visualization
+
+## 📫 Connect with me:
+* **LinkedIn:** https://www.linkedin.com/in/sebasti%C3%A1n-avil%C3%A9s-ch/
+* **Email:** avileschsebas@gmail.com
