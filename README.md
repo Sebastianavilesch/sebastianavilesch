@@ -8,7 +8,7 @@ I am an aspiring Data Analyst passionate about uncovering stories hidden in data
 * **Database Management:** SQL, Python
 
 ## 📁 Featured Projects
-* ⏳ *Project 1 (Coming Soon)* - R Data Analysis
+**[Click here to view the full interactive HTML Report](EL_ENLACE_DE_HTMLPREVIEW_AQUI)**
 * ⏳ *Project 2 (Coming Soon)* - Power BI Interactive Dashboard
 * ⏳ *Project 3 (Coming Soon)* - Tableau Visualization
 
